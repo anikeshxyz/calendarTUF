@@ -16,6 +16,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 ## links
-Live - https://calendar-38x41xlim-aahans-projects-58428069.vercel.app/
+
+Live -https://calendartuforward.netlify.app/
+https://calendar-38x41xlim-aahans-projects-58428069.vercel.app/
 
 Demo link - https://drive.google.com/file/d/1FlEP68B2GQjX-B8kMv0HScWoEPdmCzoi/view?usp=drive_link
