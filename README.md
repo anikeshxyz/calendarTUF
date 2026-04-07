@@ -18,6 +18,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ## links
 
 Live -https://calendartuforward.netlify.app/
-https://calendar-38x41xlim-aahans-projects-58428069.vercel.app/
+
 
 Demo link - https://drive.google.com/file/d/1FlEP68B2GQjX-B8kMv0HScWoEPdmCzoi/view?usp=drive_link
